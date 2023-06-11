@@ -13,4 +13,5 @@ joblib
 types-PyYAML
 scipy
 Flask
-Flask-Cors
+Flask-Cors 
+-e .
